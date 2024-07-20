@@ -1,0 +1,45 @@
+{
+  "directorios": [
+    {
+      "id": 1,
+      "name": "Pizzas",
+      "price": 559.00,
+      "rating": "5.0",
+      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
+      "is_bestseller": true,
+      "is_sale": false,
+      "is_featured": false,
+      "image": "https://ghgmrichard.github.io/resources/directorio/01.jpg",
+      "images": [
+        "https://ghgmrichard.github.io/resources/directorio/01.jpg",
+        "https://ghgmrichard.github.io/resources/directorio/01.jpg",
+        "https://ghgmrichard.github.io/resources/directorio/01.jpg"
+      ],
+      "colors": [
+        "carrot",
+        "blue",
+        "beige",
+        "purple",
+        "black"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Cameron Williamson",
+          "image": "https://george-fx.github.io/unimor/resources/customers/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "created_at": "23 Jan 2023"
+        }
+      ]
+    }    
+  ],
+  "banners": [
+    {
+      "id": "1",
+      "image": "https://george-fx.github.io/unimor/resources/banners/01.jpg",
+      "title": "Take 50% off!",
+      "btnText": "shop now"
+    }
+  ]
+}
